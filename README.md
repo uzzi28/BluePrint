@@ -95,7 +95,7 @@ npm install
 npm run dev  # runs on :5173
 ```
 
-## Roadmap
+## Future Roadmap
 
 - Study abroad course integration (GEO database)
 - Degree audit tracking against program requirements
